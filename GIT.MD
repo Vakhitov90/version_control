@@ -74,3 +74,7 @@ git log --oneline --graph
 git merge <Имя_ветки>
 ```
 
+## Клонирования репозитория с GitHub:
+```sh
+git clone <ссылка>
+```
